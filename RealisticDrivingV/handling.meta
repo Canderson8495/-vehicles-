@@ -6162,18 +6162,18 @@
     <Item type="CHandlingData">
       <handlingName>POLICE</handlingName>
       <fMass value="1400.000000" />
-      <fInitialDragCoeff value="2.100000" />
+      <fInitialDragCoeff value="8.100000" />
 	  <fDownforceModifier value="1.500000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.040000" />
       <vecInertiaMultiplier x="1.000000" y="1.070000" z="1.280000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.220000" />
+      <fInitialDriveForce value="0.370000" />
       <fDriveInertia value="0.930000" />
       <fClutchChangeRateScaleUpShift value="1.200000" />
       <fClutchChangeRateScaleDownShift value="1.300000" />
-      <fInitialDriveMaxFlatVel value="142.000000" />
+      <fInitialDriveMaxFlatVel value="180.000000" />
       <fBrakeForce value="0.780000" />
       <fBrakeBiasFront value="0.525100" />
       <fHandBrakeForce value="0.901000" />
@@ -6182,7 +6182,7 @@
       <fTractionCurveMin value="2.270000" />
       <fTractionCurveLateral value="19.500000" />
       <fTractionSpringDeltaMax value="0.150000" />
-      <fLowSpeedTractionLossMult value="0.230000" />
+      <fLowSpeedTractionLossMult value="0.190000" />
       <fCamberStiffnesss value="0.000000" />
       <fTractionBiasFront value="0.485000" />
       <fTractionLossMult value="1.040000" />

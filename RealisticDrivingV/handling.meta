@@ -19267,11 +19267,11 @@
       <fMass value="3900.000000" />
       <fInitialDragCoeff value="8.000000" />
       <fPercentSubmerged value="85.000000" />
-      <vecCentreOfMassOffset x="0.000000" y="-0.089000" z="-0.169000" />
+      <vecCentreOfMassOffset x="0.000000" y="-0.089000" z="-0.269000" />
       <vecInertiaMultiplier x="0.850000" y="0.850000" z="1.650000" />
       <fDriveBiasFront value="0.225000" />
       <nInitialDriveGears value="3" />
-      <fInitialDriveForce value="0.910000" />
+      <fInitialDriveForce value="0.990000" />
       <fDriveInertia value="0.800000" />
       <fClutchChangeRateScaleUpShift value="1.800000" />
       <fClutchChangeRateScaleDownShift value="1.800000" />
@@ -19288,7 +19288,7 @@
       <fCamberStiffnesss value="0.000000" />
       <fTractionBiasFront value="0.479500" />
       <fTractionLossMult value="0.950000" />
-      <fSuspensionForce value="2.350000" />
+      <fSuspensionForce value="4.250000" />
       <fSuspensionCompDamp value="2.150000" />
       <fSuspensionReboundDamp value="1.200000" />
       <fSuspensionUpperLimit value="0.440000" />

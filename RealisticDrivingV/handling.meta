@@ -6162,7 +6162,7 @@
     <Item type="CHandlingData">
       <handlingName>POLICE</handlingName>
       <fMass value="1400.000000" />
-      <fInitialDragCoeff value="9.000000" />
+      <fInitialDragCoeff value="7.500000" />
 	  <fDownforceModifier value="1.500000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.040000" />
@@ -6224,7 +6224,7 @@
     <Item type="CHandlingData">
       <handlingName>POLICE2</handlingName>
       <fMass value="1400.000000" />
-     <fInitialDragCoeff value="9.000000" />
+     <fInitialDragCoeff value="7.500000" />
 	  <fDownforceModifier value="1.500000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.040000" />
@@ -6286,7 +6286,7 @@
     <Item type="CHandlingData">
       <handlingName>POLICE3</handlingName>
       <fMass value="1250.000000" />
-      <fInitialDragCoeff value="9.00000" />
+      <fInitialDragCoeff value="7.50000" />
 	  <fDownforceModifier value="1.700000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.020000" z="0.015000" />
@@ -6348,7 +6348,7 @@
     <Item type="CHandlingData">
       <handlingName>POLICET</handlingName>
       <fMass value="2500.000000" />
-      <fInitialDragCoeff value="9.00000" />
+      <fInitialDragCoeff value="7.50000" />
 	  <fDownforceModifier value="1.250000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.015000" />
@@ -6406,7 +6406,7 @@
     <Item type="CHandlingData">
       <handlingName>POLICEOLD</handlingName>
       <fMass value="2400.000000" />
-      <fInitialDragCoeff value="9.000000" />
+      <fInitialDragCoeff value="7.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.250000" />
@@ -6467,7 +6467,7 @@
     <Item type="CHandlingData">
       <handlingName>POLICEOL2</handlingName>
       <fMass value="1800.000000" />
-      <fInitialDragCoeff value="9.000000" />
+      <fInitialDragCoeff value="7.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.000000" />
       <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.300000" />
@@ -11292,7 +11292,7 @@
     <Item type="CHandlingData">
       <handlingName>POLICEB</handlingName>
       <fMass value="420.000000" />
-      <fInitialDragCoeff value="9.000000" />
+      <fInitialDragCoeff value="7.500000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.050000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="0.800000" />

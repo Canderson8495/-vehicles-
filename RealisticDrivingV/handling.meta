@@ -6162,14 +6162,14 @@
     <Item type="CHandlingData">
       <handlingName>POLICE</handlingName>
       <fMass value="1400.000000" />
-      <fInitialDragCoeff value="6.800000" />
+      <fInitialDragCoeff value="9.000000" />
 	  <fDownforceModifier value="1.500000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.040000" />
       <vecInertiaMultiplier x="1.000000" y="1.070000" z="1.280000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.370000" />
+      <fInitialDriveForce value="0.400000" />
       <fDriveInertia value="0.930000" />
       <fClutchChangeRateScaleUpShift value="1.200000" />
       <fClutchChangeRateScaleDownShift value="1.300000" />
@@ -6224,14 +6224,14 @@
     <Item type="CHandlingData">
       <handlingName>POLICE2</handlingName>
       <fMass value="1400.000000" />
-     <fInitialDragCoeff value="6.800000" />
+     <fInitialDragCoeff value="9.000000" />
 	  <fDownforceModifier value="1.500000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.040000" />
       <vecInertiaMultiplier x="1.000000" y="1.070000" z="1.280000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.370000" />
+      <fInitialDriveForce value="0.400000" />
       <fDriveInertia value="0.930000" />
       <fClutchChangeRateScaleUpShift value="1.200000" />
       <fClutchChangeRateScaleDownShift value="1.300000" />
@@ -6286,14 +6286,14 @@
     <Item type="CHandlingData">
       <handlingName>POLICE3</handlingName>
       <fMass value="1250.000000" />
-      <fInitialDragCoeff value="7.250000" />
+      <fInitialDragCoeff value="9.00000" />
 	  <fDownforceModifier value="1.700000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.020000" z="0.015000" />
       <vecInertiaMultiplier x="0.666000" y="0.666000" z="0.666000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.331000" />
+      <fInitialDriveForce value="0.401000" />
       <fDriveInertia value="0.920000" />
       <fClutchChangeRateScaleUpShift value="1.100000" />
       <fClutchChangeRateScaleDownShift value="1.200000" />
@@ -6348,14 +6348,14 @@
     <Item type="CHandlingData">
       <handlingName>POLICET</handlingName>
       <fMass value="2500.000000" />
-      <fInitialDragCoeff value="7.590000" />
+      <fInitialDragCoeff value="9.00000" />
 	  <fDownforceModifier value="1.250000" />
       <fPercentSubmerged value="80.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.015000" />
       <vecInertiaMultiplier x="1.000000" y="1.080000" z="1.240000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
-      <fInitialDriveForce value="0.286000" />
+      <fInitialDriveForce value="0.406000" />
       <fDriveInertia value="0.800000" />
       <fClutchChangeRateScaleUpShift value="1.800000" />
       <fClutchChangeRateScaleDownShift value="2.100000" />
@@ -6406,13 +6406,13 @@
     <Item type="CHandlingData">
       <handlingName>POLICEOLD</handlingName>
       <fMass value="2400.000000" />
-      <fInitialDragCoeff value="8.500000" />
+      <fInitialDragCoeff value="9.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.250000" />
       <fDriveBiasFront value="0.300000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.380000" />
+      <fInitialDriveForce value="0.400000" />
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="1.700000" />
       <fClutchChangeRateScaleDownShift value="1.700000" />
@@ -6467,13 +6467,13 @@
     <Item type="CHandlingData">
       <handlingName>POLICEOL2</handlingName>
       <fMass value="1800.000000" />
-      <fInitialDragCoeff value="7.000000" />
+      <fInitialDragCoeff value="9.000000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.200000" z="0.000000" />
       <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.300000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.300000" />
+      <fInitialDriveForce value="0.400000" />
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="1.700000" />
       <fClutchChangeRateScaleDownShift value="1.700000" />
@@ -11292,13 +11292,13 @@
     <Item type="CHandlingData">
       <handlingName>POLICEB</handlingName>
       <fMass value="420.000000" />
-      <fInitialDragCoeff value="1.900000" />
+      <fInitialDragCoeff value="9.000000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.050000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="0.800000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
-      <fInitialDriveForce value="0.370000" />
+      <fInitialDriveForce value="0.400000" />
       <fDriveInertia value="1.200000" />
       <fClutchChangeRateScaleUpShift value="1.600000" />
       <fClutchChangeRateScaleDownShift value="1.600000" />

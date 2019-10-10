@@ -20186,7 +20186,7 @@
           <fLeanFwdForceMult value="13.700000" />
           <fLeanBakCOMMult value="0.000000" />
           <fLeanBakForceMult value="12.800000" />
-          <fMaxBankAngle value="43.000000" />
+          <fMaxBankAngle value="50.000000" />
           <fFullAnimAngle value="38.000000" />
           <fDesLeanReturnFrac value="0.023000" />
           <fStickLeanMult value="3.100000" />
